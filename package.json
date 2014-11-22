@@ -1,0 +1,11 @@
+{
+    "name": "Chat-NodeJs",
+    "version": "0.1.0",
+    "dependencies": {
+        "express": "latest",
+        "socket.io": "latest",
+        "ent": "latest"
+    },
+    "author": "Nassim <nass_5902@hotmail.fr>",
+    "description": "Chat with Bootstrap 3"
+}
